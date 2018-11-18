@@ -2,6 +2,9 @@
 WordPress hacks, tips n tricks.
 
 * [WordPress useful links](https://github.com/metaspook/OpenWebDir/blob/master/README.md#wordpress) - OpenWebDir
+* [16 htaccess Hacks to Speed Up, Optimize and Secure WordPress](https://makeawebsitehub.com/wordpress-htaccess-hacks)
+* [Increasing the WordPress Memory Limit](https://docs.woocommerce.com/document/increasing-the-wordpress-memory-limit)
+* [How Do I Find php.ini File?](https://www.templatemonster.com/blog/where-is-php-ini)
 
 
 ## [ .htaccess ] Hacks
