@@ -1,6 +1,9 @@
 # WPTricks
 WordPress hacks, tips n tricks.
 
+* [WordPress useful links](https://github.com/metaspook/OpenWebDir/blob/master/README.md#wordpress) - OpenWebDir
+
+
 ## [ .htaccess ] Hacks
 ```
 php_value max_execution_time 60
