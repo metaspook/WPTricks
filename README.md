@@ -1,5 +1,5 @@
 # WPTricks
-Various resources of projects
+--< WordPress hacks, tips n tricks. >--
 
 ## [ .htaccess ] Hacks
 ```
