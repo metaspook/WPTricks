@@ -6,6 +6,7 @@ Various resources of projects
 php_value max_execution_time 60
 php_value max_input_vars 3000
 php_value upload_max_filesize 64M
+php_value memory_limit 256M
 ```
 
 Redirect old domain to new domain with URL match – .htaccess
