@@ -5,7 +5,7 @@ WordPress hacks, tips n tricks.
 * [16 htaccess Hacks to Speed Up, Optimize and Secure WordPress](https://makeawebsitehub.com/wordpress-htaccess-hacks)
 * [Increasing the WordPress Memory Limit](https://docs.woocommerce.com/document/increasing-the-wordpress-memory-limit)
 * [How Do I Find php.ini File?](https://www.templatemonster.com/blog/where-is-php-ini)
-
+* [Disable mod_security in .htaccess](https://stackoverflow.com/questions/12928360/how-can-i-disable-mod-security-in-htaccess-file)
 
 ## [ .htaccess ] Hacks
 ```
