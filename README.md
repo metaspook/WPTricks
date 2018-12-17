@@ -7,6 +7,21 @@ WordPress hacks, tips n tricks.
 * [How Do I Find php.ini File?](https://www.templatemonster.com/blog/where-is-php-ini)
 * [Disable mod_security in .htaccess](https://stackoverflow.com/questions/12928360/how-can-i-disable-mod-security-in-htaccess-file)
 
+#### Legends
+- [x] = Tick
+- [ ] = Untick
+
+## [ PHP ] Hacks
+|                | Object Cache | Assigned to   | Current Status | Finished | 
+|----------------|---------------|---------------|----------------|-----------|
+| **PHP Extensions** |<ul><li>[x] memcached</li><li>[x] redis</li></ul> | > 5 hours  | @georgehrke | in progress | - [x] ok?
+| **PHP Options**   |   | php_value max_execution_time 60
+php_value max_input_vars 5000
+php_value upload_max_filesize 256M
+php_value memory_limit 256M | in progress | [x] item1<br/>[ ] item2
+| Object Cache   | > 5 hours  | @georgehrke | in progress | <ul><li>- [x] item1</li><li>- [ ] item2</li></ul>
+| Object Cache   | > 5 hours  | @georgehrke | in progress | <ul><li>[x] item1</li><li>[ ] item2</li></ul>
+
 ## [ .htaccess ] Hacks
 ```
 php_value max_execution_time 60
