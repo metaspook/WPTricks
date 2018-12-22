@@ -7,6 +7,9 @@ WordPress hacks, tips n tricks.
 * [How Do I Find php.ini File?](https://www.templatemonster.com/blog/where-is-php-ini)
 * [Disable mod_security in .htaccess](https://stackoverflow.com/questions/12928360/how-can-i-disable-mod-security-in-htaccess-file)
 
+## [ Object Cache file]
+In case any object Cache tweak related to memchache, memchached, redis etc. or fix HTTP Error 500 like issue edit this file **"public_html/wp-content/object-cache.php"**. Note! in defference replace "public_html" dir with root directory of your WordPress.
+
 #### Legends
 - [x] = Tick
 - [ ] = Untick
